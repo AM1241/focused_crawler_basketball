@@ -1,7 +1,7 @@
 # focused_crawler_basketball
 A focused crawler about the theme "basketball" in greek typed links.
 
-What is a focused crawler?
+<b>What is a focused crawler?</b>
 
 
 A program that collects Web pages that satisfy some specific property, by carefully prioritizing the crawl frontier and managing the hyperlink exploration process.
